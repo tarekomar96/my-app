@@ -1,0 +1,40 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.about{
+    background-color: #1ABC9C;
+    padding: 50px;
+    color: white;
+}
+
+.about-content p{
+    font-size: 10px;
+}
+
+
+.left{
+    background-color: white;
+    width: 30px;
+    height: 2px;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+   
+}
+
+
+.right{
+    background-color: white;
+    width: 30px;
+    height: 2px;
+    position: absolute;
+    top: 50%;
+    right: 45%;
+   
+}

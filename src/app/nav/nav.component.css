@@ -1,0 +1,19 @@
+.navbar{
+    background-color: #2C3E50 !important;
+}
+
+
+.navbar-brand{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.nav-link{
+    font-size: 10px;
+    font-weight: 500;
+}
+
+.style{
+    background-color: #1ABC9C;
+    border-radius: 10px;
+}

@@ -1,0 +1,55 @@
+.contact-content button{
+    border: none;
+    padding: 5px 10px;
+    background-color:#1ABC9C ;
+    color: white;
+}
+
+
+.contact-content input{
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+
+
+
+
+.form-control:focus {
+
+  
+    border-color: rgb(107, 101, 101) !important;
+    outline: 0;
+    box-shadow:none;
+   
+}
+
+.left{
+    background-color: #2C3E50;
+    width: 60px;
+    height: 2px;
+    position: absolute;
+    top: 50%;
+    left: 41%;
+   
+}
+
+
+.right{
+    background-color: #2C3E50;
+    width: 60px;
+    height: 2px;
+    position: absolute;
+    top: 50%;
+    right: 41%;
+   
+}
+
+.fa-star{
+    color:#2C3E50 ;
+}
+
+.contact h2{
+    color:#2C3E50 ;
+    font-weight: 800;
+}

@@ -1,0 +1,25 @@
+.information{
+    background-color: #2C3E50;
+}
+
+
+i{
+    padding: 5px ;
+    border-radius: 50% ;
+    border: 1px solid white;
+    color: white;
+    font-size: 12px;
+}
+
+
+.item{
+    color: white;
+}
+
+.item h3{
+    font-size: 20px;
+}
+
+.item p{
+    font-size: 10px;
+}
